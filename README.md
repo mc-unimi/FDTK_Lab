@@ -1,5 +1,5 @@
 # FDTK_Lab
-FROM DATA TO KNOWLEDGE Lab - Università degli Studi di Milano - SPS
+<h2>FROM DATA TO KNOWLEDGE Lab - Università degli Studi di Milano - SPS</h2>
 
 Questo e il repository GitHub per il laboratorio FROM DATA TO KNOWLEDGE, a.a. 2021/2022., tenuto dal Dott. Alessandro Bitetto (alessandro.bitetto@unimi.it) e rivolto agli studenti di MOL e HRC.
 
