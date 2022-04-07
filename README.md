@@ -8,3 +8,6 @@ Il primo incontro di presentazione del Laboratorio si terrà **GIOVEDI 7 APRILE 
 <br>https://us02web.zoom.us/j/89229465696?pwd=MHlidFR5Ri90Tm9WYWRGbTFVQ3cvUT09
 <br>Meeting ID: 892 2946 5696
 <br>Passcode: 407900
+
+
+La registrazione del primo incontro è disponibile [qui](https://drive.google.com/drive/folders/1EBM3weunrJR6u2fHqHYZkFE0BPh1ADpB?usp=sharing)
